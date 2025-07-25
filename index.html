@@ -767,25 +767,25 @@
         // Document action functions
         function viewLiterature() {
             if (!currentProduct) return;
-            window.open(currentProduct.literature, '_blank', 'noopener,noreferrer');
+            window.open(currentProduct.literature.url, '_blank', 'noopener,noreferrer');
             trackDocumentView('literature', currentProduct.name);
         }
 
         function downloadLiterature() {
             if (!currentProduct) return;
-            window.open(currentProduct.literature, '_blank', 'noopener,noreferrer');
+            window.open(currentProduct.literature.url, '_blank', 'noopener,noreferrer');
             trackDocumentDownload('literature', currentProduct.name);
         }
 
         function viewSDS() {
             if (!currentProduct) return;
-            window.open(currentProduct.sds, '_blank', 'noopener,noreferrer');
+            window.open(currentProduct.sds.url, '_blank', 'noopener,noreferrer');
             trackDocumentView('sds', currentProduct.name);
         }
 
         function downloadSDS() {
             if (!currentProduct) return;
-            window.open(currentProduct.sds, '_blank', 'noopener,noreferrer');
+            window.open(currentProduct.sds.url, '_blank', 'noopener,noreferrer');
             trackDocumentDownload('sds', currentProduct.name);
         }
 
