@@ -24,6 +24,6 @@ currency of all chemical safety information displayed on this site.
 
 ## 🏢 System Provider
 
-Professional GHS Binder System provided by **Rasco, Inc.**
+Professional GHS Binder System provided by **RascoWeb, Inc.**
 
-*Generated on 7/26/2025*
+*Generated on 7/27/2025*
