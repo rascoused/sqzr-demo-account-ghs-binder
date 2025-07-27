@@ -19,10 +19,11 @@ All documents are optimized for mobile viewing and can be accessed via QR codes 
 
 ## 🛡️ Customer Responsibility
 
-**SQZR Demo Account** is solely responsible for ensuring the accuracy, completeness, and currency of all chemical safety information displayed on this site.
+**SQZR Demo Account** is solely responsible for ensuring the accuracy, completeness, and
+currency of all chemical safety information displayed on this site.
 
 ## 🏢 System Provider
 
 Professional GHS Binder System provided by **Rasco, Inc.**
 
-*Generated on 7/25/2025*
+*Generated on 7/26/2025*
